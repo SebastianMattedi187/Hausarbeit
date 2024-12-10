@@ -1,3 +1,3 @@
-# Geschichte der Hausarbeit
+# Geschichte der Informatik
 
-Dies ist eine Hausaarbeit über eine Hausarbeit
+Dies ist eine Hausaarbeit über die Informatik

@@ -10,8 +10,6 @@
 
 ## Die Entwicklung der Integrierten Schalter
 
-## Die Entwicklung der mobielen Endgeräten
-
 ## Zusammenfasung
 
 ## Literatur

@@ -8,6 +8,8 @@
 
 ## Die Entwickung der Transistoren
 
+## Die Entwicklung der Integrierten Schalter
+
 ## Zusammenfasung
 
 ## Literatur
